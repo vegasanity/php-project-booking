@@ -64,3 +64,9 @@ input[type=number] {
     box-shadow: 0 30px 60px rgba(15, 118, 110, 0.15);
     border: 1px solid #ccfbf1;
 }
+
+.h-line {
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
